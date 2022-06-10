@@ -1,0 +1,3 @@
+[submodule "src/resources/dashboard"]
+	path = src/resources/dashboard
+	url = git@github.com:extend-luogu/exlg-setting-new.git
